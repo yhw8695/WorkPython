@@ -40,5 +40,5 @@ def convert_xls_to_xlsx_win32com(folder_path):
 
 
 # 使用示例
-folder_path ="D:\Desktop\SyncDisk\天翼同步盘\AA每日数据统计\离线统计\户表\一直未上线-数据来自多渠道户表管理\上线率统计表20251016"
+folder_path ="D:\Desktop\SyncDisk\天翼同步盘\AA每日数据统计\离线统计\户表\一直未上线-数据来自多渠道户表管理\上线率统计表20251106"
 convert_xls_to_xlsx_win32com(folder_path)
